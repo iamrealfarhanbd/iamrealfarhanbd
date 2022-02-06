@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iamrealfarhanbd/iamrealfarhanbd/main/farhan.jpg">
+<img src="https://raw.githubusercontent.com/iamrealfarhanbd/iamrealfarhanbd/main/farhan-ahmed.jpg">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=iamrealfarhanbd&label=Profile%20views&color=0e75b6&style=flat" alt="iamrealfarhanbd" /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
