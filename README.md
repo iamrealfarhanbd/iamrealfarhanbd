@@ -6,8 +6,7 @@
 
 ### Glad to see you here! :octocat:
 
-> I'm a **Front End Web Developer**. An enthusiast of technology always enjoys coding, likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. I have more then 5 years of experience in Web Design and Development. I live in Sylhet, Bangladesh. I am currently studying at Leading University,sylhet, in Computer Science and Engineering. In the tech community, I try to help people by sharing my knowledge. I love to read tech-related articles & play video games during my free time.
-
+> I'm a **Javascript Developer**. An enthusiast of technology, I enjoy coding and solving programming problems. I am constantly thinking/developing web/app related modules and functionality. I always find new ways to solve problems. Web and app Development has been a part of my life for more than six years. I live in Sylhet, Bangladesh. Currently, I have completed my B.Sc degree in Computer Science and Engineering from Leading University, Sylhet. I try my best to share my knowledge with others in the tech community.
 ---
 
 ### :blush: Talking about Personal Stuffs:
