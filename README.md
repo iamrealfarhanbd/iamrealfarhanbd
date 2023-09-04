@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iamrealfarhanbd/iamrealfarhanbd/main/farhan-ahmed.jpg">
+<img src="https://raw.githubusercontent.com/iamrealfarhanbd/iamrealfarhanbd/main/iamfarhan09.jpg">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=iamrealfarhanbd&label=Profile%20views&color=0e75b6&style=flat" alt="iamrealfarhanbd" /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
@@ -6,7 +6,7 @@
 
 ### Glad to see you here! :octocat:
 
-> I'm a **Javascript Developer**. An enthusiast of technology, I enjoy coding and solving programming problems. I am constantly thinking/developing web/app related modules and functionality. I always find new ways to solve problems. Web and app Development has been a part of my life for more than six years. I live in Sylhet, Bangladesh. Currently, I have completed my B.Sc degree in Computer Science and Engineering from Leading University, Sylhet. I try my best to share my knowledge with others in the tech community.
+> I'm a **Javascript Developer**. An enthusiast of technology, I enjoy coding and solving programming problems. I am constantly thinking/developing web/app-related modules and functionality. I always find new ways to solve problems. Web and app Development has been a part of my life for more than six years. I live in Sylhet, Bangladesh. Currently, I have completed my B.Sc degree in Computer Science and Engineering from Leading University, Sylhet. I try my best to share my knowledge with others in the tech community.
 ---
 
 ### :blush: Talking about Personal Stuffs:
