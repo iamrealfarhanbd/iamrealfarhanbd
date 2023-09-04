@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=iamrealfarhanbd&label=Profile%20views&color=0e75b6&style=flat" alt="iamrealfarhanbd" /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Farhan Ahmed!](https://www.google.com/search?q=iamrealfarhanbd&oq=iamrealfarhanbd&aqs=chrome.0.69i59j69i60l6.856j0j4&sourceid=chrome&ie=UTF-8) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Farhan Ahmed!](https://www.linkedin.com/in/iamrealfarhanbd/) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 ### Glad to see you here! :octocat:
 
